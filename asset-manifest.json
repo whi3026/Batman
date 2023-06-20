@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71ed14c9.css",
+    "main.js": "/static/js/main.862f1e39.js",
+    "static/js/787.e577274b.chunk.js": "/static/js/787.e577274b.chunk.js",
+    "static/media/yangjin.ttf": "/static/media/yangjin.79667a47126354ecfef0.ttf",
+    "static/media/Pretendard-Regular.woff": "/static/media/Pretendard-Regular.ab56c53f21ca6b32d15f.woff",
+    "static/media/배스킨라빈스 B.ttf": "/static/media/배스킨라빈스 B.214907e7ef4332f84fdf.ttf",
+    "static/media/SB_Agro_B.ttf": "/static/media/SB_Agro_B.2bd2f65ded5ef6e562d3.ttf",
+    "static/media/VITRO_INSPIRE_TTF.ttf": "/static/media/VITRO_INSPIRE_TTF.f3132f4a34301f075d09.ttf",
+    "static/media/ground3.png": "/static/media/ground3.1e59e968141ecb31472b.png",
+    "index.html": "/index.html",
+    "main.71ed14c9.css.map": "/static/css/main.71ed14c9.css.map",
+    "main.862f1e39.js.map": "/static/js/main.862f1e39.js.map",
+    "787.e577274b.chunk.js.map": "/static/js/787.e577274b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71ed14c9.css",
+    "static/js/main.862f1e39.js"
+  ]
+}
